@@ -1,0 +1,8 @@
+Framingham Heart Institute - bust
+UCI machine learning repository 
+	- Heart Disease
+	- Statlog (Heart)
+	- SPECT Heart
+Kaggle
+	- Weather Data (US)
+National Centers for Environmental Information
